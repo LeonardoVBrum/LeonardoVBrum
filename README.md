@@ -4,9 +4,9 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@leonardobrum255)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Vercel.com/leonardovbrum)
 
-![Anurag's GitHub LeonardoBrum](https://github-readme-stats.vercel.app/api?username=LeonardoVBrum&show_icons=true&theme=tokyonight)
+![Anurag's GitHub LeonardoBrum](https://github-readme-stats.vercel.app/api?username=LeonardoVBrum&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVBrum)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVBrum)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Tecnologias que eu uso no meu dia
