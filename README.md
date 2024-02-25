@@ -6,6 +6,8 @@
 
 ![Anurag's GitHub LeonardoBrum](https://github-readme-stats.vercel.app/api?username=LeonardoVBrum&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVBrum)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
