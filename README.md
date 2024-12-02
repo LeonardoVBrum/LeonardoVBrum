@@ -21,4 +21,4 @@
 </div><br/>
 <br>
 
-### Apaixonado por tecnologia!
+### Desenvolvedor FullStack!
